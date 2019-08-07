@@ -1,8 +1,9 @@
 # Data Science 101 Workshops
 
-We will be using Appsody from Kabanero Project for this hands on.
+We will be using Watson Studion from IBM Cloud to create in this workshop.
 
 ## 1. Sign up on IBM Cloud
+
 
 ## 2. Login into IBM Cloud
 
