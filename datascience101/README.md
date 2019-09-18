@@ -29,7 +29,7 @@ This will create a Watson Studio Service.
 
 ## 3. Data set to be used for Lab.
 
-Download demo.csv from this repository
+Download data.zip from this repository
 
 ## 4. View Data Set
 ![alt text](https://github.com/IBMDevConnect/ibmdevday2019-data-ai/blob/master/datascience101/sample_dataset.png)
