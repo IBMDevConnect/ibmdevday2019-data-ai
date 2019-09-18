@@ -3,7 +3,7 @@
 We will be using Watson Studion from IBM Cloud to create in this workshop.
 
 ## 1. Sign up on IBM Cloud
-Registration Url: http://bit.ly/cloudreg9
+Registration Url: http://bit.ly/cloudreg8
 
 ## 2. Login into IBM Cloud
 ![alt text](https://github.com/IBMDevConnect/ibmdevday2019-data-ai/blob/master/datascience101/cloud-login.png)
